@@ -1,2 +1,2 @@
 # PowerBI_Projects
-Its a Pizza Sales Report where 
+Its a Pizza Sales Report 
